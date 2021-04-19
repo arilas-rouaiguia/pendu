@@ -88,7 +88,7 @@
                     echo "Gagné! Le mot était : ";
                     foreach ($reponse as $letter) echo $letter;
                     echo "<br/><a href='index.php'>Rejouer?</a><br>";
-					echo '<img src="https://media.tenor.com/images/9d1bd590f305e4b7f03c9f0287a1ab7c/tenor.gif"><br>';
+					echo '<img src="image/v.gif"><br>';
 					die();
                 }
         }
